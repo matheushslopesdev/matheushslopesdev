@@ -9,9 +9,10 @@ Estou estudando **programação** há **1 mês**, e este espaço é dedicado aos
 - **JavaScript**: Trazendo interatividade para meus projetos.
 - **Desenvolvimento Full Stack**: Explorando as bases para me tornar um desenvolvedor completo.
 
-<img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src = "https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+### METAS PARA SER UM DESENVOLVEDOR FULL-STACK:
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=matheushslopesdev&theme=blue-green">
+<img src = "https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"> <img src = "https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src = "https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"> <img src = "https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"> <img src = "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"> <img src = "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+
   
 ## 💡 Por que estou aprendendo programação?
 
@@ -22,7 +23,10 @@ Sempre tive interesse em tecnologia e, recentemente, decidi começar minha jorna
 - HTML5
 - CSS3
 - JavaScript (Vanilla)
-- Git & GitHub para controle de versão.
+- - Git & GitHub para controle de versão.
+  
+
+
 
 ## 📚 O que vem a seguir?
 
