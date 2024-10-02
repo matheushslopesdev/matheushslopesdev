@@ -5,6 +5,8 @@ Estou estudando **programação** há **1 mês**, e este espaço é dedicado aos
 
 Meu Repositorio: https://github.com/matheushslopesdev?tab=repositories
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheushslopesdev&show_icons=true)
+
 ## 🚀 O que estou aprendendo?
 
 - **HTML/CSS**: Construindo a estrutura e o design de páginas web.
