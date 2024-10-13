@@ -30,7 +30,6 @@ Sempre tive interesse em tecnologia e, recentemente, decidi começar minha jorna
 - HTML5
 - CSS3
 - JavaScript (Vanilla)
-- - Git & GitHub para controle de versão.
   
 
 
