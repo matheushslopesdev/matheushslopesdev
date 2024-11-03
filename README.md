@@ -1,7 +1,7 @@
 # 👨‍💻 Meu Repositório de Projetos de Programação 👩‍💻
 
 Bem-vindo ao meu repositório!  
-Estou estudando **programação** há **1 mês**, e este espaço é dedicado aos meus primeiros passos no mundo do desenvolvimento!
+Estou estudando **programação** há **2 mês**, e este espaço é dedicado aos meus primeiros passos no mundo do desenvolvimento!
 
 Meu Repositorio: https://github.com/matheushslopesdev?tab=repositories
 
