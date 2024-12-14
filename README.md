@@ -1,43 +1,30 @@
-# 👨‍💻 Meu Repositório de Projetos de Programação 👩‍💻
+# **Olá, eu sou Matheus!**
 
-Bem-vindo ao meu repositório!  
-Estou estudando **programação** há **2 mês**, e este espaço é dedicado aos meus primeiros passos no mundo do desenvolvimento!
+Seja bem-vindo(a) ao meu perfil do GitHub! Aqui você vai encontrar projetos, ideias e soluções que refletem minha paixão por tecnologia e resolução de problemas.
 
-Meu Repositorio: https://github.com/matheushslopesdev?tab=repositories
+## **Sobre mim**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheushslopesdev&show_icons=true)
+- **Sou uma pessoa curiosa** que gosta de explorar as diversas áreas da programação. No momento, estou trilhando meu caminho para descobrir as linguagens e tecnologias que mais gosto.
 
-## 🚀 O que estou aprendendo?
+## **O que você encontra por aqui**
 
-- **HTML/CSS**: Construindo a estrutura e o design de páginas web.
-- **JavaScript**: Trazendo interatividade para meus projetos.
-- **Desenvolvimento Full Stack**: Explorando as bases para me tornar um desenvolvedor completo.
+Você vai achar de tudo um pouco! Desde projetos de automação e pequenas ferramentas até soluções criativas e experimentos de aprendizado. Cada repositório reflete uma parte da minha jornada no mundo da programação.
 
-### METAS PARA SER UM DESENVOLVEDOR FULL-STACK:
+## **Tecnologias e Ferramentas**
 
- <img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src = "https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"> <img src = "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"> <img src = "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### OQUE APRENDI ATÉ O MOMENTO:
-<img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src = "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"> <img src = "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+## **Vamos nos conectar!**
 
-  
-## 💡 Por que estou aprendendo programação?
+- **E-mail:** [matheushslopes.dev@gmail.com](mailto:matheushslopes.dev@gmail.com)
+- **LinkedIn:** [Linkedin](https://www.linkedin.com/in/matheus-henrique-1b8b98150/)
 
-Sempre tive interesse em tecnologia e, recentemente, decidi começar minha jornada como desenvolvedor. Cada dia tem sido uma nova descoberta e estou ansioso para compartilhar meus progressos!
+Se você chegou até aqui, obrigado por dedicar um tempo para conhecer um pouco mais sobre mim! Fique à vontade para explorar meus repositórios e, se quiser trocar uma ideia, estou à disposição.
 
-## 🛠️ Tecnologias que estou utilizando
-
-- HTML5
-- CSS3
-- JavaScript (Vanilla)
-  
-
-
-
-## 📚 O que vem a seguir?
-
-Em breve, pretendo explorar bibliotecas e frameworks JavaScript, como **React**, e começar a construir aplicações web mais robustas!
-
----
-
-Sinta-se à vontade para me acompanhar nesta jornada e conferir meus projetos! 😄
