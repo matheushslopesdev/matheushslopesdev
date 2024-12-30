@@ -1,5 +1,8 @@
 # **Olá, eu sou Matheus!**
 
+![Avatar](https://i.imgur.com/sysyqIn.png)
+
+
 Seja bem-vindo(a) ao meu perfil do GitHub! Aqui você vai encontrar projetos, ideias e soluções que refletem minha paixão por tecnologia e resolução de problemas.
 
 ## **Sobre mim**
